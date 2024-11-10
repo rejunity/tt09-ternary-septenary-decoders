@@ -9,12 +9,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+Unpacks Ternary, Quinary and Septenary 1.6 .. 2.6 bits/param packed weights
 
 ## How to test
 
-Explain how to use your project
+Provide packed weights on INPUT pmods
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+Use Pico
