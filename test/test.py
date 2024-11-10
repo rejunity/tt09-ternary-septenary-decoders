@@ -33,8 +33,6 @@ async def test_project(dut):
     print(dut.uo_out.value)
     print(dut.uio_out.value)
 
-
-
     dut.uio_in.value = 128
     await ClockCycles(dut.clk, 1)
 
